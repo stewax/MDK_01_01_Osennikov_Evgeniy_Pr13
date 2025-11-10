@@ -57,3 +57,4 @@ namespace Interface_Osennikov.Elements
             MainWindow.EditMsg = this;
         }
     }
+}
